@@ -13,7 +13,7 @@ Discrub saves message content into a csv file, which I read and analyzed in Pyth
 
 ## Results:
 
-### Most Common Interesting Phrases
+### Interesting Words and Phrases
 
 Two word phrases, also known as Bigrams, include "and the" and other common connective phrases. However, further analysis shows phrases a bit more insightful
 
@@ -43,7 +43,19 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 "I feel bad not doing work this evening"
 ```
 
-### Most Common Emoji's
+"yap" - 235 mentions
+
+```
+
+```
+
+"interesting" - 834 mentions
+
+```
+
+```
+
+### Common Emoji's
 
 The emoji's I primarily use changes over time
 
