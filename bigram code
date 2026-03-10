@@ -33,6 +33,7 @@ for i in range(151):
   all_values = allMsg_s.stack().tolist()
   single_line = " ".join(all_values)
   words = re.findall(r"\w+", single_line)
+  #change number below to search for different word lengths
   c=Counter(ngrams(words, 2))
   total.update(c)
 
