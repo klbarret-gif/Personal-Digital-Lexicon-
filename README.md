@@ -1,5 +1,5 @@
 # Personal Digital Lexicon
-*A collection of my language, gathered from messages to my best friend*
+*A collection of my language, gathered from conversations with my best friend*
 
 
 ## Process:
