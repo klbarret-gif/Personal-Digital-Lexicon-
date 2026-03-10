@@ -13,4 +13,10 @@ Discrub saves message content into a csv file, which I read and analyzed in Pyth
 
 ## Results:
 
+# Most Common Unique Phrases
+
+Two word phrases, also known as Bigrams, include "and the" and other common connective phrases. However, further analysis shows peaks of phrases a bit more unique to me
+
+1) "my brain" - 328 mentions
+
 
