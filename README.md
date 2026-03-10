@@ -59,6 +59,5 @@ The emoji's I primarily use changes over time
 <p></p>
 <img width="30" height="30" alt="skull_1f480" src="https://github.com/user-attachments/assets/057eb2a3-762e-42b1-b76e-570b4330a3f7" />
 <p></p>
-<img width="600" height="371" alt="Use Over Time (2)" src="https://github.com/user-attachments/assets/280e89d0-2077-45b2-84cb-32bee24ee239" />
-
+<img width="600" height="371" alt="Use Over Time (2)" src="https://github.com/user-attachments/assets/e980ec6a-fa46-4d8a-8537-0765eb4ee55e" />
 
