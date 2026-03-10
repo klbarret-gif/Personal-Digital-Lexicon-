@@ -50,6 +50,6 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 The emoji's I use change over time
 
-<img width="30" height="30" alt="saluting-face_1fae1" src="https://github.com/user-attachments/assets/0d5c103a-45f4-4c2d-9a99-4659f61cdf5b" />
+<img width="30" height="30" alt="saluting-face_1fae1" src="https://github.com/user-attachments/assets/0d5c103a-45f4-4c2d-9a99-4659f61cdf5b" /> Salute Emoji
 
 
