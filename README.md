@@ -10,7 +10,7 @@ From 2023 to now, *I have sent over 150k messages* to my best friend on Discord 
 
 I also added some messages I sent in recent groupchats with my friend group emoji or certain phrases frequencies.
 
-Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting ones I found funny, but not too personally incriminating.
+Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting candid momemts of my life that are not too personally incriminating.
 
 
 ## Results:
@@ -32,3 +32,14 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 <img width="553" height="40" alt="Screenshot 2026-03-10 171729" src="https://github.com/user-attachments/assets/68e68228-900b-4866-8271-cee3ffd7ea67" />
 
 <img width="519" height="40" alt="Screenshot 2026-03-10 171827" src="https://github.com/user-attachments/assets/5683d1a2-4728-4bff-a457-1cafdf97f2e9" />
+
+"feel bad" - 266 mentions
+
+<img width="430" height="44" alt="Screenshot 2026-03-10 172727" src="https://github.com/user-attachments/assets/d774d3fc-529a-470e-bb24-1052cd58d89d" />
+
+<img width="543" height="68" alt="Screenshot 2026-03-10 172624" src="https://github.com/user-attachments/assets/ac565938-c051-4343-b9a0-8f77059ae75e" />
+
+<img width="403" height="33" alt="Screenshot 2026-03-10 172453" src="https://github.com/user-attachments/assets/badfab85-7945-4589-8b9e-1e1e48e8b99c" />
+
+
+
