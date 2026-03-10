@@ -21,6 +21,7 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 "my brain" - 432 mentions
 
+
 <img width="386" height="40" alt="Screenshot 2026-03-10 170952" src="https://github.com/user-attachments/assets/b13f49bf-4cd1-4010-a755-afc838724a3e" />
 
 <img width="246" height="40" alt="Screenshot 2026-03-10 170806" src="https://github.com/user-attachments/assets/420b70e6-e9a3-4467-99ef-549d25b08cc4" />
@@ -29,11 +30,13 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 "my mom" - 1,121 mentions
 
+
 <img width="553" height="40" alt="Screenshot 2026-03-10 171729" src="https://github.com/user-attachments/assets/68e68228-900b-4866-8271-cee3ffd7ea67" />
 
 <img width="519" height="40" alt="Screenshot 2026-03-10 171827" src="https://github.com/user-attachments/assets/5683d1a2-4728-4bff-a457-1cafdf97f2e9" />
 
 "feel bad" - 266 mentions
+
 
 <img width="430" height="44" alt="Screenshot 2026-03-10 172727" src="https://github.com/user-attachments/assets/d774d3fc-529a-470e-bb24-1052cd58d89d" />
 
