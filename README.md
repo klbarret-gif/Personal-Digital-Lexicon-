@@ -31,10 +31,11 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 "my mom" - 1,121 mentions
 
+```
+"Lowkey I think I just prefer ribs and my moms food"
 
-<img width="553" height="40" alt="Screenshot 2026-03-10 171729" src="https://github.com/user-attachments/assets/68e68228-900b-4866-8271-cee3ffd7ea67" />
-
-<img width="519" height="40" alt="Screenshot 2026-03-10 171827" src="https://github.com/user-attachments/assets/5683d1a2-4728-4bff-a457-1cafdf97f2e9" />
+"Me when I walk up to my mom like a baby duckling"
+```
 
 "feel bad" - 266 mentions
 
