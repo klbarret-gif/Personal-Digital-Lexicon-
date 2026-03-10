@@ -4,7 +4,7 @@
 
 ## Process:
 
-My best friend from high school and I still use Discord to talk because of the years of messages we have on there. In order to read and analyze these messages, I used Discrub, an incredibly useful chrome extension. Unfortunately, it takes hours to compile incredibly large amounts of text in Discord.
+My best friend from high school and I still use Discord to talk because of the years of messages we have on there. In order to read and analyze these messages, I used Discrub, an incredibly useful chrome extension. Unfortunately, it takes hours to compile incredibly large amounts of text in Discord, so more results will be added later.
 
 From 2023 to now, *I have sent over 150k messages* to my best friend on Discord and counting.
 
