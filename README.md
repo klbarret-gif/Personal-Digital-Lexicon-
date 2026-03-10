@@ -19,8 +19,7 @@ Discrub saves message content into a csv file, which I read and analyzed in Pyth
 
 Two word phrases, also known as Bigrams, include "and the" and other common connective phrases. However, further analysis shows phrases a bit more unique to me
 
-
-1) "my brain" - 432 mentions
+"my brain" - 432 mentions
 
 <img width="386" height="40" alt="Screenshot 2026-03-10 170952" src="https://github.com/user-attachments/assets/b13f49bf-4cd1-4010-a755-afc838724a3e" />
 
@@ -28,3 +27,8 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 <img width="222" height="40" alt="Screenshot 2026-03-10 170709" src="https://github.com/user-attachments/assets/4b0b46ad-f453-4717-bff0-275fe218fef7" />
 
+"my mom" - 1,121 mentions
+
+<img width="553" height="40" alt="Screenshot 2026-03-10 171729" src="https://github.com/user-attachments/assets/68e68228-900b-4866-8271-cee3ffd7ea67" />
+
+<img width="519" height="40" alt="Screenshot 2026-03-10 171827" src="https://github.com/user-attachments/assets/5683d1a2-4728-4bff-a457-1cafdf97f2e9" />
