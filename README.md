@@ -41,7 +41,6 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 "I sometimes feel bad that I just disassociate myself from politics"
 
 "I feel bad not doing work this evening"
-
 ```
 
 ### Most Common Emoji's
