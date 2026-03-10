@@ -1,6 +1,7 @@
 # Personal Digital Lexicon
 *A collection of my language, gathered from messages to friends*
 
+```
 ## Process:
 
 My best friend from high school and I still use Discord to talk because of the years of messages we have on there. In order to read and analyze these messages, I used Discrub, an incredibly useful chrome extension. Unfortunately, it takes hours to compile incredibly large amounts of text in Discord.
@@ -10,6 +11,7 @@ From 2023 to now, *I have sent over 150k messages* to my best friend on Discord 
 I also added some messages I sent in recent groupchats with my friend group emoji or certain phrases frequencies.
 
 Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting ones I found funny, but not too personally incriminating.
+```
 
 ## Results:
 
@@ -17,12 +19,11 @@ Discrub saves message content into a csv file, which I read and analyzed in Pyth
 
 Two word phrases, also known as Bigrams, include "and the" and other common connective phrases. However, further analysis shows phrases a bit more unique to me
 
-```
+
 1) "my brain" - 432 mentions
 
 <img width="386" height="42" alt="Screenshot 2026-03-10 170952" src="https://github.com/user-attachments/assets/b13f49bf-4cd1-4010-a755-afc838724a3e" />
 
 <img width="246" height="39" alt="Screenshot 2026-03-10 170806" src="https://github.com/user-attachments/assets/420b70e6-e9a3-4467-99ef-549d25b08cc4" />
 
-```
 
