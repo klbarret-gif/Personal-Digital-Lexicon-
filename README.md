@@ -9,9 +9,9 @@ My best friend from high school and I still use Discord to talk because of the y
 
 From 2023 to now, *I have sent over 150k messages* to my best friend on Discord and counting. This data dictated most of my results.
 
-I also included some messages sent in recent groupchats made with my friend group when adding to emoji's or certain phrases frequencies.
+I also added some messages I sent in recent groupchats with my friend group emoji or certain phrases frequencies.
 
-Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting ones I found funny, but not too personally incriminating.
+Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting ones I found funny, but not too personally incriminating.
 
 ## Results:
 
