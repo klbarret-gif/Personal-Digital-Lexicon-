@@ -8,7 +8,7 @@ My best friend from high school and I still use Discord to talk because of the y
 
 From 2023 to now, *I have sent over 150k messages* to my best friend on Discord and counting.
 
-Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. Then I searched for these words, phrases, and emoji's in Discord, screen-shotting candid moments of my life that are not too personally incriminating.
+Discrub saves message content into a csv file, which I read and analyzed in Python to find the phrases I use the most. I used code from Stack Overflow and Google with some slight adjustments. This csv data was used to created graphs in Google Sheets. I searched for these words, phrases, and emoji's in Discord, screen-shotting candid moments of my life that are not too personally incriminating.
 
 
 ## Results:
