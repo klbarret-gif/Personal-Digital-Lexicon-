@@ -71,7 +71,6 @@ Unrelated news I burned microwave popcorn bc I stepped away for too long *salute
 *salute emoji* let me in cap
 
 *salute emoji* I ball when you ball
-
 ```
 
 <p></p>
