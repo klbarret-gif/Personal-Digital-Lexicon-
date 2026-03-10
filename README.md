@@ -49,7 +49,6 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 I yap to you! Sometimes!
 
 I yap too much
-
 ```
 
 "interesting" - 834 mentions
@@ -60,7 +59,6 @@ I yap too much
 Interesting 
 
 Annoyingly interesting class
-
 ```
 
 ### Common Emoji's
