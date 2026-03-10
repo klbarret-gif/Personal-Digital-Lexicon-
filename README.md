@@ -21,12 +21,13 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 "my brain" - 432 mentions
 
+```
+"My physics brain CANNOT read this"
 
-<img width="386" height="40" alt="Screenshot 2026-03-10 170952" src="https://github.com/user-attachments/assets/b13f49bf-4cd1-4010-a755-afc838724a3e" />
+"I need my brain back"
 
-<img width="246" height="40" alt="Screenshot 2026-03-10 170806" src="https://github.com/user-attachments/assets/420b70e6-e9a3-4467-99ef-549d25b08cc4" />
-
-<img width="222" height="40" alt="Screenshot 2026-03-10 170709" src="https://github.com/user-attachments/assets/4b0b46ad-f453-4717-bff0-275fe218fef7" />
+"In my brain folds"
+```
 
 "my mom" - 1,121 mentions
 
