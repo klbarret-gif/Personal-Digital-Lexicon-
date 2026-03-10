@@ -65,8 +65,21 @@ The emoji's I primarily use changes over time
 <p></p>
 <img width="600" height="371" alt="Salute" src="https://github.com/user-attachments/assets/6754ffd4-e666-4238-ae3e-cbf38f7eef1b" />
 
+```
+Unrelated news I burned microwave popcorn bc I stepped away for too long *salute emoji*
+
+*salute emoji* let me in cap
+
+*salute emoji* I ball when you ball
+
+```
+
 <p></p>
 <img width="30" height="30" alt="skull_1f480" src="https://github.com/user-attachments/assets/057eb2a3-762e-42b1-b76e-570b4330a3f7" />
 <p></p>
 <img width="600" height="371" alt="Use Over Time (2)" src="https://github.com/user-attachments/assets/e980ec6a-fa46-4d8a-8537-0765eb4ee55e" />
+
+```
+
+```
 
