@@ -39,12 +39,12 @@ Two word phrases, also known as Bigrams, include "and the" and other common conn
 
 "feel bad" - 266 mentions
 
+```
+"I sometimes feel bad that I just disassociate myself from politics"
 
-<img width="430" height="40" alt="Screenshot 2026-03-10 172727" src="https://github.com/user-attachments/assets/d774d3fc-529a-470e-bb24-1052cd58d89d" />
+"I feel bad not doing work this evening"
 
-<img width="543" height="80" alt="Screenshot 2026-03-10 172624" src="https://github.com/user-attachments/assets/ac565938-c051-4343-b9a0-8f77059ae75e" />
-
-<img width="403" height="40" alt="Screenshot 2026-03-10 172453" src="https://github.com/user-attachments/assets/badfab85-7945-4589-8b9e-1e1e48e8b99c" />
+```
 
 
 
