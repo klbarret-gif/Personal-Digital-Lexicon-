@@ -1,0 +1,38 @@
+#code found on stack overflow and google
+
+import re
+from collections import Counter
+from itertools import tee, islice
+import pandas as pd
+import pandas
+
+
+
+
+def ngrams(lst, n):
+  tlst = lst
+  while True:
+    a, b = tee(tlst)
+    l = tuple(islice(a, n))
+    if len(l) == n:
+      yield l
+      next(b)
+      tlst = b
+    else:
+      break
+
+total=Counter()
+
+for i in range(151):
+  index=i+1
+  fileName="ajsalis_page_"+str(index)+".csv"
+  allMsg=pandas.read_csv(fileName,usecols=["content"])
+  allMsg.fillna(" ", inplace=True)
+  allMsg_s=allMsg.astype(str)
+  all_values = allMsg_s.stack().tolist()
+  single_line = " ".join(all_values)
+  words = re.findall(r"\w+", single_line)
+  c=Counter(ngrams(words, 2))
+  total.update(c)
+
+print(total.most_common(150))
