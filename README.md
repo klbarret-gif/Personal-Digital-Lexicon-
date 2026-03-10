@@ -1,7 +1,5 @@
 # Personal Digital Lexicon
-A collection of my language, gathered from messages to friends
-
-What I say and how I say it, especially without a filter, reflects who I am.
+*A collection of my language, gathered from messages to friends*
 
 ## Process:
 
