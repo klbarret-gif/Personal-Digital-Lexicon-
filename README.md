@@ -54,7 +54,7 @@ The emoji's I primarily use changes over time
 
 <img width="30" height="30" alt="saluting-face_1fae1" src="https://github.com/user-attachments/assets/0d5c103a-45f4-4c2d-9a99-4659f61cdf5b" />
 <p></p>
-<img width="600" height="371" alt="Use Over Time (1)" src="https://github.com/user-attachments/assets/66a3f4dd-2df7-4fef-91e9-9ca2ca604794" />
+<img width="600" height="371" alt="Salute" src="https://github.com/user-attachments/assets/6754ffd4-e666-4238-ae3e-cbf38f7eef1b" />
 
 <p></p>
 <img width="30" height="30" alt="skull_1f480" src="https://github.com/user-attachments/assets/057eb2a3-762e-42b1-b76e-570b4330a3f7" />
